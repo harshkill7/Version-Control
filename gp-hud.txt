@@ -1,0 +1,9 @@
+0.0.1
+
+- Electric Vehicles icon added
+- Fixed minimap issue
+- Cinematic mode added
+- hudtoggle added
+- Removed test commands
+
+https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc&search=gp-hud
