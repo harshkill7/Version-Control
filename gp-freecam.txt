@@ -3,4 +3,4 @@
 - Initial release version
 - For support contact us
 
-https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc&search=gp-freecam
+https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc&search=GP+Freecam
