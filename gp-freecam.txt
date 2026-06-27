@@ -1,6 +1,7 @@
-0.0.2
+0.0.4
 
-- Initial release version
+- Fivemanage / Fivemerr / Cloudinary upload added
+- Album added via item
 - For support contact us
 
 https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc&search=GP+Freecam
