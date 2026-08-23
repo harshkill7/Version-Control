@@ -1,7 +1,0 @@
-0.0.4
-
-- Overall Stability
-- HUD Postiioning Fixed
-- Major update dropping soon!
-
-https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc&search=gp-hud

@@ -1,8 +1,9 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.6",
     "changelogs" : [
         "Overall Stability",
-        "HUD Postiioning Fixed"
+        "Code Cleanup",
+        "2nd HUD Support coming soon!"
     ],
     "link" : "https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc&search=gp-hud"
 }
